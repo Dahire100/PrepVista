@@ -10,7 +10,7 @@ gunicorn==21.2.0
 
 # Analysis.py dependencies
 python-docx==1.1.0
-mediapipe==0.10.9
+mediapipe
 opencv-python==4.9.0.80
 transformers==4.36.2
 moviepy==1.0.3
