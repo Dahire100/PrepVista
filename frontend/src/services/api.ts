@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://prepvista975-prepvista-backend.hf.space';
+const API_BASE_URL = "https://prepvista975-prepvista-backend.hf.space/api";
 
 const getToken = (): string | null => localStorage.getItem('token');
 
