@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://prepvista-backend7.onrender.com/api';
+const API_BASE_URL = 'https://huggingface.co/spaces/prepvista975/PrepVista-backend';
 
 const getToken = (): string | null => localStorage.getItem('token');
 
